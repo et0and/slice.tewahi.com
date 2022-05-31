@@ -92,7 +92,7 @@ this git repo requires symbolic link support. on Windows, this means you have to
 gs-app-server
 ```
 serves code as obfuscated, compressed bundles. this is the mode used to run on a public
-web site.
+web site
 
 requires node.js 12+
 
